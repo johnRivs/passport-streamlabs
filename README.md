@@ -32,3 +32,5 @@ app.get('/auth/streamlabs/callback', passport.authenticate('streamlabs', { failu
     // At this point, the authentication was successful.
 });
 ```
+
+[Here](https://github.com/johnRivs/passport-streamlabs/tree/master/example)'s condensed example using [Express](https://expressjs.com/).
