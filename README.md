@@ -1,14 +1,11 @@
 # passport-streamlabs
----
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Streamlabs](https://streamlabs.com) on Node.js apps.
 
 ## Installation
----
 `$ npm install passport-streamlabs --save`
 
 ## Usage
----
 ### Configure Strategy
 1. [Register an app](https://streamlabs.com/dashboard/#/apps/register) on Streamlabs.
 2. Decide what [scopes](https://twitchalerts.readme.io/docs/scopes) you're gonna use.
