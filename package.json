@@ -1,0 +1,29 @@
+{
+  "name": "passport-streamlabs",
+  "version": "1.0.0",
+  "description": "Streamlabs authentication strategy for Passport.",
+  "main": "index.js",
+  "homepage": "https://github.com/johnRivs/passport-streamlabs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnRivs/passport-streamlabs"
+  },
+  "bugs": {
+    "url": "https://github.com/johnRivs/passport-streamlabs/issues"
+  },
+  "keywords": [
+    "passport",
+    "streamlabs",
+    "twitchalerts",
+    "auth",
+    "oauth",
+    "oauth2",
+    "authentication",
+    "identity"
+  ],
+  "person": "John Rivs <johnrivs21@gmail.com> (https://johnrivs.com)",
+  "license": "ISC",
+  "dependencies": {
+    "passport-oauth2": "^1.4.0"
+  }
+}
