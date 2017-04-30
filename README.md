@@ -1,5 +1,8 @@
 # passport-streamlabs
 
+[![NPM version](https://img.shields.io/npm/v/passport-streamlabs.svg)](https://www.npmjs.com/package/passport-streamlabs)
+[![NPM downloads](https://img.shields.io/npm/dm/passport-streamlabs.svg)](https://www.npmjs.com/package/passport-streamlabs)
+  
 [Passport](http://passportjs.org/) strategy for authenticating with [Streamlabs](https://streamlabs.com) on Node.js apps.
 
 ## Installation
