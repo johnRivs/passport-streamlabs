@@ -33,4 +33,4 @@ app.get('/auth/streamlabs/callback', passport.authenticate('streamlabs', { failu
 });
 ```
 
-[Here](https://github.com/johnRivs/passport-streamlabs/tree/master/example)'s condensed example using [Express](https://expressjs.com/).
+[Here](https://github.com/johnRivs/passport-streamlabs/tree/master/example)'s a condensed example using [Express](https://expressjs.com/).
