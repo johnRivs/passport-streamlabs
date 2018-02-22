@@ -11,7 +11,7 @@
 ## Usage
 ### Configure Strategy
 1. [Register an app](https://streamlabs.com/dashboard/#/apps/register) on Streamlabs.
-2. Decide what [scopes](https://twitchalerts.readme.io/docs/scopes) you're gonna use.
+2. Decide what [scopes](https://dev.streamlabs.com/docs/scopes) you're gonna use.
 3. Register the strategy
 ```js
 var StreamlabsStrategy = require('passport-streamlabs').Strategy,
