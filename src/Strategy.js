@@ -29,6 +29,7 @@ Strategy.prototype.userProfile = function(accessToken, done) {
             provider:     'streamlabs',
             token:        accessToken,
             id:           json.streamlabs.id,
+            name:         json.streamlabs.display_name.toLowerCase(),
             display_name: json.streamlabs.display_name,
             _raw:         body,
             _json:        json
