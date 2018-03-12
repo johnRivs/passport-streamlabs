@@ -28,9 +28,8 @@ Strategy.prototype.userProfile = function(accessToken, done) {
         return done(undefined, {
             provider:     'streamlabs',
             token:        accessToken,
-            id:           json.twitch.id,
-            name:         json.twitch.name,
-            display_name: json.twitch.display_name,
+            id:           json.streamlabs.id,
+            display_name: json.streamlabs.display_name,
             _raw:         body,
             _json:        json
         });
