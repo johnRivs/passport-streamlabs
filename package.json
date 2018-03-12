@@ -1,6 +1,6 @@
 {
   "name": "passport-streamlabs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Streamlabs authentication strategy for Passport.",
   "main": "index.js",
   "homepage": "https://github.com/johnRivs/passport-streamlabs",
